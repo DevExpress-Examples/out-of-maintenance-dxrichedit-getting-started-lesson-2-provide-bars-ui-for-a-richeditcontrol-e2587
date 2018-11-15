@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/SimpleRichTextEditorWithBarUI/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/SimpleRichTextEditorWithBarUI/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/SimpleRichTextEditorWithBarUI/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/SimpleRichTextEditorWithBarUI/MainWindow.xaml))
+<!-- default file list end -->
 # DXRichEdit Getting Started - Lesson 2 - Provide Bars UI for a RichEditControl
 
 
